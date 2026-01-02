@@ -1,3 +1,6 @@
+git hub repo token
+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
+
 # 🌳 Git Practice Playground
 
 **Welcome to the Git Practice Sandbox!** This repository is a safe environment designed for learning, testing, and experimenting with Git commands. The goal is to break things here so you don't break them in production.
