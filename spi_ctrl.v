@@ -1,5 +1,5 @@
 //this file is edited by pavan
-
+//this is second update on to the git
 module spi_ctrl(
 //apb
 pclk_i,prst_i,pwrite_i,paddr_i,pwdata_i,prdata_o,penable_i,pready_o,perror_o,
