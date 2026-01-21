@@ -13,6 +13,7 @@ parameter S_ADDR_PHASE			 =5'b00010;
 parameter S_IDLE_BW_ADDR_DATA	 =5'b00100;
 parameter S_DATA_PHASE			 =5'b01000;
 parameter S_IDLE_WITH_TXS_PENDING=5'b10000;
+// updated the codce inn the 16 lineeee
 input pclk_i,prst_i;
 input sclk_i;
 input pwrite_i;
